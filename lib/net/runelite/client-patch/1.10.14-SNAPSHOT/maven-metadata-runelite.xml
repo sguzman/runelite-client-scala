@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>net.runelite</groupId>
+  <artifactId>client-patch</artifactId>
+  <versioning>
+    <lastUpdated>20231004111547</lastUpdated>
+    <snapshot>
+      <timestamp>20231004.111547</timestamp>
+      <buildNumber>28</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.10.14-20231004.111547-28</value>
+        <updated>20231004111547</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.10.14-20231004.111547-28</value>
+        <updated>20231004111547</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>1.10.14-SNAPSHOT</version>
+</metadata>
