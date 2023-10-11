@@ -7,7 +7,7 @@ lazy val root = project
       organization := "net.runelite",
       version := "0.1.0-SNAPSHOT",
       scalaVersion := scala3Version,
-      Compile/mainClass := Some("net.runelite.client.RuneLite")
+      Compile / mainClass := Some("net.runelite.client.RuneLite"),
       compileOrder := CompileOrder.JavaThenScala,
       resolvers ++= Seq(
         "Typesafe" at "https://repo.typesafe.com/typesafe/releases/",
